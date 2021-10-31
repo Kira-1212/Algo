@@ -1,4 +1,4 @@
-
+package MCM;
 public class ScrambledString_Recursive {
 
 	public static void main(String[] args) {

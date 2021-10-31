@@ -1,7 +1,9 @@
+package MCM;
+
 import java.util.HashMap;
 
 public class ScrambledString_TopDown {
-	public static HashMap<String, Boolean> map = new HashMap(); 
+	public static HashMap<String, Boolean> map = new HashMap<String, Boolean>(); 
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

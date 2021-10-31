@@ -1,4 +1,4 @@
-
+package MCM;
 public class MCM_TopDown {
 	public static int [][] t = new int[6][6];
 	public static void main(String[] args) {
