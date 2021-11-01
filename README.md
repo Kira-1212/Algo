@@ -4,6 +4,7 @@ This repo contains all the codes of algorithms that I have worked while trying t
 
 Concepts covered include:
 
-Divide and Conquer
-Randomized Algorithms
-Dynamic Programming
+Divide and Conquer,
+Randomized Algorithms,
+Dynamic Programming,
+Recursion
