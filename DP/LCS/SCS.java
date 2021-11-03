@@ -7,7 +7,7 @@ public class SCS {
 		String a = "geek";
 		String b = "eke";
 		
-		System.out.println("Length of Shortest Subsequence: " + SCS_Length(a, b) );
+		System.out.println("Length of Shortest Supersequence: " + SCS_Length(a, b) );
 	}
 	
 	public static int SCS_Length(String a, String b) {

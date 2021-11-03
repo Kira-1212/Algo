@@ -7,7 +7,7 @@ public class SCS_PrintString {
 		String a = "geek";
 		String b = "eke";
 		
-		System.out.println("Length of Shortest Subsequence: " + SCS_Print(a, b) );
+		System.out.println("Shortest Supersequence: " + SCS_Print(a, b) );
 	}
 
 	private static String SCS_Print(String a, String b) {
